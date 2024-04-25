@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This program is very small but im very proud of it because i wanted to learn some bash and i made this with the little knowledge i had :)
+This program is very small but im very proud of it because i wanted to learn a bit about bash and i made this with the little knowledge i had :)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
