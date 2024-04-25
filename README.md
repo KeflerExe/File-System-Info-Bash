@@ -26,7 +26,7 @@ Using the BigInt<Base> data type, the program implements a calculator for expres
 ### Built With
 
 
-* ![C++][C++.js]
+* ![Bash][Bash.js]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -42,21 +42,6 @@ None
 ### Installation
 
 No installation required :)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-1. Download the files
-2. Compile with g++
-```
-g++ bigint_main.cc bigint_func.cc
-```
-4. All ready!
-
-(You can find instructions about the arguments of the program inside the bigint_func.cc file.)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +85,7 @@ Project Link: [https://github.com/KeflerExe/Bigger-Data-Types-C-]
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[C++.js]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
+[Bash.js]: https://img.shields.io/badge/-Linux-grey?logo=linux
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
