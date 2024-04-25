@@ -26,7 +26,7 @@ Using the BigInt<Base> data type, the program implements a calculator for expres
 ### Built With
 
 
-*Bash![Bash][Bash.js]
+*![Bash][Bash.js]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
