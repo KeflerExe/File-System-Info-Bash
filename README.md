@@ -85,7 +85,7 @@ Project Link: [https://github.com/KeflerExe/Bigger-Data-Types-C-]
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[Bash.js]: https://img.shields.io/badge/-Linux-grey?logo=linux
+[Bash.js]: https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
